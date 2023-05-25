@@ -1,9 +1,15 @@
+
+body{
+    margin: 0px;
+}
 li{list-style: none;
     font-size: 36px;
 }
 .margem{
     margin-top: 0;
-    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
     color: #050931;
     background-color: #050931;}
 .container{
@@ -21,8 +27,8 @@ img{
     margin-right: 0px;
 }
 #nome{
-    margin-bottom: 0%;
-    margin-top: 0%;
+    margin-bottom: 0;
+    margin-top: 0;
     font-size: 80px;
 }
 a {
