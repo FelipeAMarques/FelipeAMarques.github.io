@@ -5,7 +5,11 @@ body{
 li{list-style: none;
     font-size: 36px;
 }
-    
+.sobre{
+    display: flex;
+    align-items: flex-end;
+    height: 53%;
+}
 .container{
     display: flex;
 }
