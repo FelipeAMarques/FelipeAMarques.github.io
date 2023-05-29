@@ -8,7 +8,10 @@ li{list-style: none;
 .sobre{
     display: flex;
     align-items: flex-end;
-    height: 53%;
+    height: 50%;
+}
+.lista{
+    height: 50%;
 }
 .container{
     display: flex;
